@@ -1,2 +1,2 @@
 # studypal
-A collaborative study platform where you can compete and collaborate with your friends.
+A collaborative study platform where you can track progress, as well as compete and work together with your friends.
